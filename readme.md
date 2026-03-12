@@ -1,4 +1,4 @@
-# RAg version 2- with mulkltimodal capability
+# RAG version 2- with multimodal capability
 
 Test 
 Table
